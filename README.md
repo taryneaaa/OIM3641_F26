@@ -6,8 +6,6 @@ This is where I'm keeping my work for **OIM 3641** at Babson College — in-clas
 
 Hi, I'm Tarynea! I'm an undergrad at Babson finishing up a B.S. in Business with a concentration in **Tech Entrepreneurship and Data Analytics** (expected Dec 2026). I've spent most of my internships and coursework in analytics and strategy — Power BI dashboards, SQL, SAP, market research — and this class is my first real hands-on dive into building with LLM APIs, so expect this repo to get more interesting (and probably messier) as the term goes on.
 
-Outside the classroom I'm VP of Clubs & Organizations for Student Government, VP of Events for the Babson Consulting Association, and a tutor at the Math Resource Center.
-
 ## Skills & Tools
 
 **Languages**
