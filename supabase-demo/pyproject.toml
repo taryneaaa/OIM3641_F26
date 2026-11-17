@@ -1,0 +1,21 @@
+[project]
+name = "supabase-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Tarynea", email = "taggarwal2@babson.edu" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.162.4",
+    "supabase>=2.34.0",
+    "yfinance>=1.8.0",
+]
+
+[project.scripts]
+supabase-demo = "supabase_demo:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
